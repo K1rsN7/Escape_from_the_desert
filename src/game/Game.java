@@ -2,6 +2,7 @@ package game;
 
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -127,7 +128,12 @@ public class Game implements SystemConstants {
                         6 - Open the map
                         7 - Exit game""" + DEFAULT_COLOR);
                 System.out.print(PLAYER_COLOR + player.name_player + " action: ");
-                act = sc.nextInt();
+                try {
+                    act = sc.nextInt();
+                } catch (InputMismatchException e) {
+                    act = 0;
+                    sc.next();
+                }
                 if ((act > 0) && (act < 8)) {
                     break;
                 } else {

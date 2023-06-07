@@ -1,5 +1,5 @@
 # Escape_from_the_desert
-Final work for the 2nd course in the professional module "Development of software modules"
+The final work for the 2nd year of the professional module "Development of software modules" was closed for a grade of 5!
 
 ### A story about the idea of creating a game
 At the end of the 2nd course, it is not necessary to present a console application in the Java programming language.
@@ -12,7 +12,7 @@ Then a few graphic corrections were added to the game so that it was not in blac
 The control was implemented by selecting actions, thanks to the input of numbers. Final work for the 2nd year of the professional module "Development of software modules"
 
 # Побег_из_пустыни
-Итоговая работа для 2-го курса по профессиональному модулю "Разработка программных модулей"
+Итоговая работа для 2-го курса по профессиональному модулю "Разработка программных модулей"  была закрыта на оценку 5! 
 
 ### История об идее создания игры
 В конце 2-го курса нет необходимости представлять консольное приложение на языке программирования Java.

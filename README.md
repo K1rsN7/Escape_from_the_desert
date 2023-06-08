@@ -24,7 +24,6 @@ The control was implemented by selecting actions, thanks to the input of numbers
 ### Управление
 Управление было реализовано путем выбора действий, благодаря вводу чисел. Итоговая работа за 2-й курс профессионального модуля "Разработка программных модулей"
 
----
 
 # Demonstration of the game / Демонстрация игры
 

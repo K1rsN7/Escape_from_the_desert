@@ -26,6 +26,6 @@ The control was implemented by selecting actions, thanks to the input of numbers
 
 ---
 
-### Demonstration of the game / Демонстрация игры
+# Demonstration of the game / Демонстрация игры
 
 ![Image alt](https://github.com/K1rsN7/Escape_from_the_desert/blob/master/GamePlay.gif)

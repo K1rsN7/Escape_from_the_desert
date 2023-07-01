@@ -1,28 +1,29 @@
-# Escape_from_the_desert
-The final work for the 2nd course of the professional module "Development of software modules" was defended for a grade of 5!
+# Escape_from_the_Desert
+The final work for the second year in the professional module "Development of software modules" was defended for a grade of 5! 
 
 ### A story about the idea of creating a game
-At the end of the 2nd course, it is not necessary to present a console application in the Java programming language.
-The idea was to make a walker with the search for a secret exit, which was generated randomly. 
-After that, it was decided to implement obstacles (walls and pits) that would prevent the player from quickly finding a way out. 
-To complicate the game, it was decided to add a "stupid" terminator.
-Then a few graphic corrections were added to the game so that it was not in black and white.
+At the end of the 2nd course, it is necessary to present a console application in the Java programming language.
+The idea of the application was to make a console game based on the principle of a rpg with a search for a secret exit that was randomly generated. 
+After the implementation of this idea, the idea of complicating the game by adding obstacles (walls and pits) appeared.
+Then came the idea to add a terminator, which would further complicate the passage of the game. The terminator operates on the principle of randomly generated action. 
+After that, amendments were made to the graphic design of the application by using colored text in the console using ANSI codes.
 
 ### Management
-The control was implemented by selecting actions, thanks to the input of numbers. Final work for the 2nd year of the professional module "Development of software modules"
+Management was implemented by selecting actions, thanks to entering numbers in the application console.
 
 # Побег_из_пустыни
-Итоговая работа для 2-го курса по профессиональному модулю "Разработка программных модулей" была зак на оценку 5! 
+Итоговая работа за второй курс по профессиональному модулю "Разработка программных модулей" была защищена на оценку 5! 
 
 ### История об идее создания игры
-В конце 2-го курса нет необходимости представлять консольное приложение на языке программирования Java.
-Идея состояла в том, чтобы сделать ходунки с поиском секретного выхода, который генерировался случайным образом. 
-После этого было решено внедрить препятствия (стены и ямы), которые мешали бы игроку быстро найти выход. 
-Чтобы усложнить игру, было решено добавить "глупого" терминатора.
-Затем в игру было добавлено несколько графических исправлений, чтобы она не была черно-белой.
+В конце 2-го курса необходимо представить консольное приложение на языке программирования Java.
+Идея приложения состояла в том, чтобы сделать консольную игру по принципу бродилки с поиском секретного выхода, который генерировался случайным образом. 
+После реализации данной идеи появилась идея об усложнения игры, путём добавления препятствий (стен и ям).
+Затем появилась идея добавить терминатора, который ещё больше усложнил бы прохождение игры. Терминатор действует по принципу рандомно генерирующегося действия. 
+После чего были внесены поправки в графический дизайн приложения, путём использования цветного текста в консоли с помощью ANSI кодов.
 
 ### Управление
-Управление было реализовано путем выбора действий, благодаря вводу чисел. Итоговая работа за 2-й курс профессионального модуля "Разработка программных модулей"
+Управление было реализовано путем выбора действий, благодаря вводу чисел в консоли приложения.
+
 
 
 # Demonstration of the game / Демонстрация игры

@@ -11,7 +11,6 @@ After that, the graphical design of the application was amended by using colored
 ### Controls
 Control was implemented by selecting actions by entering numbers in the application console.
 
-
 # Demonstration of the game
 
 ![Image alt](https://github.com/K1rsN7/Escape_from_the_desert/blob/master/GamePlay.gif)

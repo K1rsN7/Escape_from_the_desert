@@ -1,9 +1,9 @@
 <h1 align="center":>Escape_from_desert</h1>
 <div align="center">
-  <a href="https://github.com/K1rsN7/TechHaven/issues">
+  <a href="https://github.com/K1rsN7/Escape_from_the_desert/issues">
 		<img src="https://img.shields.io/github/issues/K1rsN7/Escape_from_the_desert?color=4A73DF&labelColor=1C2325&style=for-the-badge">
 	</a>
-	<a href="https://github.com/K1rsN7/TechHaven/stargazers">
+	<a href="https://github.com/K1rsN7/Escape_from_the_desert/stargazers">
 		<img src="https://img.shields.io/github/stars/K1rsN7/Escape_from_the_desert?color=4A73DF&labelColor=1C2325&style=for-the-badge">
 	</a>
 	<a href="./LICENSE">

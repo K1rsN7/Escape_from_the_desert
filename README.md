@@ -1,13 +1,14 @@
+<img src="./banner.png">
 <h1 align="center":>Escape_from_desert</h1>
 <div align="center">
   <a href="https://github.com/K1rsN7/Escape_from_the_desert/issues">
-		<img src="https://img.shields.io/github/issues/K1rsN7/Escape_from_the_desert?color=4A73DF&labelColor=1C2325&style=for-the-badge">
+		<img src="https://img.shields.io/github/issues/K1rsN7/Escape_from_the_desert?color=A75A36&labelColor=1C2325&style=for-the-badge">
 	</a>
 	<a href="https://github.com/K1rsN7/Escape_from_the_desert/stargazers">
-		<img src="https://img.shields.io/github/stars/K1rsN7/Escape_from_the_desert?color=4A73DF&labelColor=1C2325&style=for-the-badge">
+		<img src="https://img.shields.io/github/stars/K1rsN7/Escape_from_the_desert?color=A75A36&labelColor=1C2325&style=for-the-badge">
 	</a>
 	<a href="./LICENSE">
-		<img src="https://img.shields.io/github/license/K1rsN7/Escape_from_the_desert?color=4A73DF&labelColor=1C2325&style=for-the-badge">
+		<img src="https://img.shields.io/github/license/K1rsN7/Escape_from_the_desert?color=A75A36&labelColor=1C2325&style=for-the-badge">
 	</a>
 </div>
 <p>The final work for the second course on the professional module "Development of program modules" was defended for a grade of 5! </p>
@@ -24,4 +25,14 @@
 <h1 align="center">Demonstration of the game</h1>
 <div align="center">
   <img src="https://github.com/K1rsN7/Escape_from_the_desert/blob/master/GamePlay.gif">
+</div>
+<h2 align="center"> Star History</h2>
+<div align="center">
+<a href="https://star-history.com/#K1rsN7/Escape_from_the_desert&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=K1rsN7/Escape_from_the_desert&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=K1rsN7/Escape_from_the_desert&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=K1rsN7/SubManage&type=Date" />
+ </picture>
+</a>
 </div>
